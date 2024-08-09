@@ -1,4 +1,4 @@
-# netflix-title-analysis-AWS-QuickSight
+# Netflix Title Analysis using AWS QuickSight
 Created a dashboard for Netflix Title Analysis using AWS QuickSight.
 
 ## Overview
